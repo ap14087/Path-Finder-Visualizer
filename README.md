@@ -9,6 +9,7 @@
 * Python 3.x
 * Pygame
 
+# Glimpse of visualizer
 https://user-images.githubusercontent.com/65537606/116807171-44cd3f80-ab4f-11eb-8645-ec5868dcb965.mp4
 
 
